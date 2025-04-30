@@ -37,6 +37,12 @@ While the dataset contains several columns, I’ve mainly focused on the ones th
 - **Model Year** – Year of manufacture  
 - **Electric Vehicle Type** – BEV or PHEV
 
+📌 **Note:** The source dataset is regularly updated, so future visualizations may differ depending on when the data is downloaded.
+
+## 📦 Data File Included
+
+- ✅ `electric_vehicle_data.zip` – A zipped CSV file containing the exact version of the dataset used to build this dashboard.
+
 ## 🎥 Project Walkthrough Video
 
 I’ve recorded a full video walkthrough of the dashboard creation process in Tableau:  
@@ -53,7 +59,8 @@ I’ve recorded a full video walkthrough of the dashboard creation process in Ta
 ## 📁 Files Included
 
 - Tableau Dashboard Screenshot  
-- `README.md` 
+- `README.md`
+- `electric_vehicle_data.zip`  
 - Tableau Workbook File (`.twb`)  
 - Dataset link reference
 - Video link reference
