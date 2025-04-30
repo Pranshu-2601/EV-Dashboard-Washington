@@ -40,7 +40,8 @@ While the dataset contains several columns, I’ve mainly focused on the ones th
 ## 🎥 Project Walkthrough Video
 
 I’ve recorded a full video walkthrough of the dashboard creation process in Tableau:  
-🔗 Watch the video EV.mp4
+🔗 [Watch the video here](https://drive.google.com/file/d/1xKWU8C52dgEfxEuAN-yqzX7VbmNwosN-/view?usp=sharing)
+
 
 ## 📸 Dashboard Screenshot
 
@@ -54,7 +55,8 @@ I’ve recorded a full video walkthrough of the dashboard creation process in Ta
 - Tableau Dashboard Screenshot  
 - `README.md` 
 - Tableau Workbook File (`.twb`)  
-- Dataset link reference  
+- Dataset link reference
+- Video link reference
 
 ## 📌 Notes
 
