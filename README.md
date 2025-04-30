@@ -26,7 +26,7 @@ An interactive **brand filter** (Make) allows users to focus the entire dashboar
 
 ## 🧾 Dataset Details
 
-The dataset was obtained from [data.gov](https://catalog.data.gov/dataset/electric-vehicle-population-data) and contains information about electric vehicles registered in the U.S., with a focus on Washington State.  
+The dataset was obtained from [data.gov.EV-data](https://catalog.data.gov/dataset/electric-vehicle-population-data) and contains information about electric vehicles registered in the U.S., with a focus on Washington State.  
 
 While the dataset contains several columns, I’ve mainly focused on the ones that tell the clearest story about EV adoption in Washington:
 
